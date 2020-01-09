@@ -7,4 +7,4 @@ This repo is a collection of "fixes" to your sandbox project, containing simple 
 
 All code is accompanied by an MIT license. &copy; by WTERH 2020+
 
-If you any question about this codes, write me in telegram: @wterh 
+If you any question about this codes, write me in telegram: [@wterh](https://t.me/wterh)
